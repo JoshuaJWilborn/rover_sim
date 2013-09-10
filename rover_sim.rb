@@ -1,3 +1,4 @@
+#this is a rover sim for thoughtwoks code challenge
 class Sim
   REGEX = [/(\d+)\s+(\d+)/, /(\d+)\s+(\d+)\s+([NSEW])/, /([LMR]+)/]
   
